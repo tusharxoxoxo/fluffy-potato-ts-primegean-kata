@@ -2,6 +2,7 @@
 this repo contains all the code i did while going through theprimegean the last algorithm course
 
 to see the new function that i have created on top of the existing kata-machine given theprimegean to all the participants of the course go to the following path
+
 src/day1/
 
 ## Developed live on twitch
